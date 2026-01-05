@@ -2,11 +2,11 @@
 
 A sleek, responsive, and high-performance static e-commerce platform dedicated to sneaker enthusiasts. This project focuses on high-end visual storytelling through modern CSS animations and interactive JavaScript elements.
 
-**Live Demo:** [https://www.sample.vercel.app](https://www.sample.vercel.app)
+**Live Demo:** [https://e-commerce-sneakers-seven.vercel.app/](https://e-commerce-sneakers-seven.vercel.app/)
 
 ---
 
-## 🚀 Overview
+##  Overview
 
 **SneakerBox** is built to bridge the gap between minimalist design and immersive user interaction. By leveraging core web technologies, the site provides a lightning-fast shopping experience without the overhead of heavy frameworks.
 
@@ -14,7 +14,7 @@ The project emphasizes **visual fidelity**, featuring smooth transitions, dynami
 
 ---
 
-## ✨ Key Features
+##  Key Features
 
 * **Dynamic UI/UX:** Interactive elements powered by JavaScript to handle state changes (like cart additions) without page reloads.
 * **Advanced Animations:** Custom CSS keyframes and JS-driven entrance animations for a premium feel.
@@ -24,7 +24,7 @@ The project emphasizes **visual fidelity**, featuring smooth transitions, dynami
 
 ---
 
-## 🛠️ Technical Stack
+##  Technical Stack
 
 
 | Category       | Technology Used                                      |
@@ -36,7 +36,7 @@ The project emphasizes **visual fidelity**, featuring smooth transitions, dynami
 
 ---
 
-## 📸 Better Visualization
+##  Better Visualization
 
 To provide users with a "luxury" shopping feel, we implemented:
 
@@ -46,7 +46,7 @@ To provide users with a "luxury" shopping feel, we implemented:
 
 ---
 
-## 📦 Getting Started
+##  Getting Started
 
 To run this project locally:
 
@@ -63,7 +63,7 @@ To run this project locally:
 
 ---
 
-## 🚢 Deployment
+##  Deployment
 
 This site is automatically deployed via the **Vercel GitHub Integration**.
 
@@ -73,6 +73,6 @@ This site is automatically deployed via the **Vercel GitHub Integration**.
 
 ---
 
-## 🤝 Contact
+##  Contact
 
 For any inquiries regarding the project or potential collaborations, please feel free to reach out via GitHub.
