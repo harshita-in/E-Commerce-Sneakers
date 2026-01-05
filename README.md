@@ -2,7 +2,7 @@
 
 A sleek, responsive, and high-performance static e-commerce platform dedicated to sneaker enthusiasts. This project focuses on high-end visual storytelling through modern CSS animations and interactive JavaScript elements.
 
-**Live Demo:** [https://www.sample.vercel.app](https://www.sample.vercel.app)
+**Live Demo:** [https://e-commerce-sneakers-seven.vercel.app/](https://e-commerce-sneakers-seven.vercel.app/)
 
 ---
 
